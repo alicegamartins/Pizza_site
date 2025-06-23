@@ -1,6 +1,10 @@
 # Site de Compra de Pizzas 
 Este é um site de compra de pizzas, desenvolvido durante o curso da plataforma B7Web. Com uma interface intuitiva e responsiva, ele permite que o usuário escolha suas pizzas favoritas e finalize a compra de forma simples.
 
+<img src="https://github.com/alicegamartins/Pizza_site/blob/070b99651fa449c64978ddbc3f4cfa9eeb97fc6e/imagem.png" width="600">
+
+
+
 ## funcionalidades
 * Escolher Pizza:
 Visualize diversos sabores com imagens, descrições e preços. Cada pizza pode ser selecionada clicando no botão "+" abaixo da imagem.
